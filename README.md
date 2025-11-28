@@ -35,7 +35,7 @@
 | Category | Technologies |
 |----------|-------------|
 | **Frontend** | React (Vite), Context API, TailwindCSS, Axios |
-| **Backend** | Node.js, Express.js, Socket.IO, JWT, Cookie-Parser |
+| **Backend** | Node.js, Express.js, Socket.IO, JWT |
 | **Database** | MongoDB Atlas (Mongoose) |
 | **Storage** | Cloudinary (Image Hosting) |
 | **DevOps** | Vercel (Hosting), Git |
@@ -50,4 +50,22 @@ Follow these steps to run the project locally on your machine.
 ```bash
 git clone [https://github.com/tanujnautiyal/Whispr.git](https://github.com/tanujnautiyal/Whispr.git)
 cd whispr
-
+```
+### 2️⃣ Backend Setup
+```bash
+cd server
+npm install
+```
+Start the Server:
+```bash
+npm run server
+```
+### 3️⃣ Frontend Setup
+```bash
+cd ../client
+npm install
+```
+Start the Frontend:
+```bash
+npm run dev
+```
