@@ -14,7 +14,7 @@
 
 ## 📸 Preview
 
-(https://whispr-c.vercel.app/)]
+(https://whispr-c.vercel.app/)
 
 ---
 
