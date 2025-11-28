@@ -14,10 +14,7 @@
 
 ## 📸 Preview
 
-| Login Page | Chat Interface | Profile Settings |
-|:---:|:---:|:---:|
-| ![Login Page](docs/login.png) | ![Chat Page](docs/chat.png) | ![Profile Page](docs/profile.png) |
-> *Note: Screenshots are located in the `docs/` folder.*
+(https://whispr-c.vercel.app/)]
 
 ---
 
@@ -37,7 +34,7 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | React (Vite), Context API, TailwindCSS, Axios, Lucide React |
+| **Frontend** | React (Vite), Context API, TailwindCSS, Axios |
 | **Backend** | Node.js, Express.js, Socket.IO, JWT, Cookie-Parser |
 | **Database** | MongoDB Atlas (Mongoose) |
 | **Storage** | Cloudinary (Image Hosting) |
